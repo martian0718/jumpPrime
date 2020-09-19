@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1", "P1\P1.csproj", "{5FDE8CF6-D999-4849-AEE3-FC790C439E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jumpPrimeTest", "jumpPrimeTest\jumpPrimeTest.csproj", "{9608F498-4E09-468B-AC0E-748CB7FAAF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FDE8CF6-D999-4849-AEE3-FC790C439E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDE8CF6-D999-4849-AEE3-FC790C439E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDE8CF6-D999-4849-AEE3-FC790C439E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDE8CF6-D999-4849-AEE3-FC790C439E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9608F498-4E09-468B-AC0E-748CB7FAAF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9608F498-4E09-468B-AC0E-748CB7FAAF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9608F498-4E09-468B-AC0E-748CB7FAAF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9608F498-4E09-468B-AC0E-748CB7FAAF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

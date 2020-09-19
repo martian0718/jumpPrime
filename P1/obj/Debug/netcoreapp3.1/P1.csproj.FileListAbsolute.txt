@@ -1,0 +1,12 @@
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/bin/Debug/netcoreapp3.1/P1.deps.json
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/bin/Debug/netcoreapp3.1/P1.runtimeconfig.json
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/bin/Debug/netcoreapp3.1/P1.runtimeconfig.dev.json
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/bin/Debug/netcoreapp3.1/P1.dll
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/bin/Debug/netcoreapp3.1/P1.pdb
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/obj/Debug/netcoreapp3.1/P1.csprojAssemblyReference.cache
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/obj/Debug/netcoreapp3.1/P1.AssemblyInfoInputs.cache
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/obj/Debug/netcoreapp3.1/P1.AssemblyInfo.cs
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/obj/Debug/netcoreapp3.1/P1.csproj.CoreCompileInputs.cache
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/obj/Debug/netcoreapp3.1/P1.dll
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/obj/Debug/netcoreapp3.1/P1.pdb
+/Users/martinwu/Desktop/CPSC3200/P1/P1/P1/obj/Debug/netcoreapp3.1/P1.genruntimeconfig.cache
